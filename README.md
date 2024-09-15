@@ -20,8 +20,8 @@ in the top 10M list, so I decided to just include them all...
 
 --------
 # Current status as of Mon Sep 16 12:22:37 AM CEST 2024
-|:Top #: |:Left:|:Left%:|:Cracked:|:Cracked%:|
-|:------:|:----:|:-----:|:-------:|:--------:|
+|Top #|Left|Left%|Cracked|Cracked%|
+|:------:|:----:|:---:|:-----:|:----:|
 |1000    |4     |0.40%|996    |99.60%|
 |20000   |35    |0.17%|19965  |99.82%|
 |250000  |642   |0.25%|249358 |99.74%|
