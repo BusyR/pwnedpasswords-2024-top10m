@@ -19,8 +19,7 @@ frequency:sha1-hash:plain
 ## Revision history:
 1.0  2024-09-17 - initial release
 
---------
-## Current status as of Mon Sep 16 09:23:15 AM CEST 2024
+### Current status as of Mon Sep 16 09:23:15 AM CEST 2024
 |Top #|Left|Left%|Cracked|Cracked%|
 |:------:|:----:|:---:|:-----:|:----:|
 |1000|4|0.40%|996|99.60%|
