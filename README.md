@@ -27,5 +27,6 @@ frequency:sha1-hash:plain
 |250000|626|0.25%|249374|99.74%|
 |5000000|142722|2.85%|4857278|97.14%|
 |10017103|385729|3.85%|9631374|96.14%|
+
 Enjoy, and feel free to submit any missing passwords you've cracked!
 BusyR
