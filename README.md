@@ -16,6 +16,7 @@ frequency:sha1-hash:plain
 
 ## Revision history:
 1.0  2024-09-16 - initial release
+
 1.1  2024-09-22 - more hashes cracked, added list of uncracked hashes
 
 ### Current status as of Sun Sep 22 03:42:33 PM CEST 2024
