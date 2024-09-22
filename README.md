@@ -16,15 +16,16 @@ frequency:sha1-hash:plain
 
 ## Revision history:
 1.0  2024-09-16 - initial release
+1.1  2024-09-22 - more hashes cracked, added list of uncracked hashes
 
-### Current status as of Mon Sep 16 09:23:15 AM CEST 2024
+### Current status as of Sun Sep 22 03:42:33 PM CEST 2024
 |Top #|Left|Left%|Cracked|Cracked%|
 |:------:|:----:|:---:|:-----:|:----:|
 |1000|4|0.40%|996|99.60%|
-|20000|35|0.17%|19965|99.82%|
-|250000|626|0.25%|249374|99.74%|
-|5000000|142722|2.85%|4857278|97.14%|
-|10017103|385729|3.85%|9631374|96.14%|
+|20000|31|0.15%|19969|99.84%|
+|250000|533|0.21%|249467|99.78%|
+|5000000|130548|2.61%|4869452|97.38%|
+|10017103|324593|3.24%|9692510|96.75%|
 
 Enjoy, and feel free to submit any missing passwords you've cracked!
 
