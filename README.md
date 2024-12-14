@@ -15,10 +15,9 @@ frequency:sha1-hash:plain
 ```
 
 ## Revision history:
-## Revision history:
-1.0.0  2024-09-16 - initial release
-1.0.1  2024-09-22 - more hashes cracked, added list of uncracked hashes
-1.0.2  2024-12-14 - more hashes cracked
+- v1.0.0  2024-09-16 - initial release
+- v1.0.1  2024-09-22 - more hashes cracked, added list of uncracked hashes
+- v1.0.2  2024-12-14 - more hashes cracked
 
 ### Current status as of Sat Dec 14 10:28:02 PM CET 2024
 |Top #|Left|Left%|Cracked|Cracked%|
